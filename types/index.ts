@@ -34,4 +34,5 @@ export interface User {
   avatar_url: string;
   public_repos: number;
   followers: number;
+  html_url: string;
 }
