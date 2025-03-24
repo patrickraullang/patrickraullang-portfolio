@@ -98,7 +98,7 @@ export default function HomePage() {
 
           <p className={styles.bio}>
           I build intuitive, user-first web applications and i am passionate about crafting seamless UX and UI experiences. 
-          Fueled by endless cups of coffee, I write code with a smile and always hope it doesn't break on me!
+          Fueled by endless cups of coffee, I write code with a smile and always hope it does not break on me!
           </p>
 
           <div className={styles.actionLinks}>
